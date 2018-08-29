@@ -120,5 +120,4 @@ package-lock.json
 
 # NodePress.js #
 ################
-config/*
 !config/config.js.tpl
